@@ -1,0 +1,19 @@
+{
+  "name": "p_zero",
+  "version": "1.0.0",
+  "description": "First(test) project with nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sspsk/project_zero.git"
+  },
+  "author": "sspsk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sspsk/project_zero/issues"
+  },
+  "homepage": "https://github.com/sspsk/project_zero#readme"
+}
