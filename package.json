@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sspsk/project_zero/issues"
   },
-  "homepage": "https://github.com/sspsk/project_zero#readme"
+  "homepage": "https://github.com/sspsk/project_zero#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
